@@ -1,0 +1,10 @@
+body {
+    background-color: #b2d8d8;
+    body {
+        background-image: url('https://www.deportestemuco.cl/wp-content/uploads/2019/01/Logo-Deportes-Temuco-2019.png');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    <link rel="stylesheet" type="text/css" href="styles.css">
+}
